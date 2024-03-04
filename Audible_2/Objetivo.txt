@@ -1,0 +1,5 @@
+time -> [hours], [minutes], [time_in_minutes]
+stars -> [stars], [ratings]
+time, stars -> numéricos inteiros
+ratings -> numérico inteiro
+stars -> texto
