@@ -1,0 +1,580 @@
+index,movie_title,release_date,genre,MPAA_rating,total_gross,inflation_adjusted_gross
+0,Snow White and the Seven Dwarfs,"Dec 21, 1937",Musical,G,184925485.0,5228953251.0
+1,Pinocchio,"Feb 9, 1940",Adventure,G,84300000.0,2188229052.0
+2,Fantasia,"Nov 13, 1940",Musical,G,83320000.0,2187090808.0
+3,Song of the South,"Nov 12, 1946",Adventure,G,65000000.0,1078510579.0
+4,Cinderella,"Feb 15, 1950",Drama,G,85000000.0,920608730.0
+5,"20,000 Leagues Under the Sea","Dec 23, 1954",Adventure,,28200000.0,528279994.0
+6,Lady and the Tramp,"Jun 22, 1955",Drama,G,93600000.0,1236035515.0
+7,Sleeping Beauty,"Jan 29, 1959",Drama,,9464608.0,21505832.0
+8,101 Dalmatians,"Jan 25, 1961",Comedy,G,153000000.0,1362870985.0
+9,The Absent Minded Professor,"Mar 16, 1961",Comedy,,25381407.0,310094574.0
+10,Babes in Toyland,"Dec 14, 1961",Musical,G,10218316.0,124841160.0
+11,Bon Voyage!,"May 17, 1962",Comedy,Not Rated,9230769.0,109581646.0
+12,The Sword in the Stone,"Dec 25, 1963",Adventure,,22182353.0,153870834.0
+13,The Jungle Book,"Oct 18, 1967",Musical,Not Rated,141843000.0,789612346.0
+14,Blackbeard's Ghost,"Feb 8, 1968",Comedy,,21540050.0,138612686.0
+15,The Aristocats,"Apr 24, 1970",Musical,G,55675257.0,255161499.0
+16,The Boatniks,"Jul 1, 1970",Comedy,,18607492.0,101200742.0
+17,Bedknobs and Broomsticks,"Oct 7, 1971",Musical,,17871174.0,91305448.0
+18,The Apple Dumpling Gang,"Jul 1, 1975",Comedy,,31916500.0,131246872.0
+19,Freaky Friday,"Jan 21, 1977",Comedy,,25942000.0,98067733.0
+20,The Many Adventures of Winnie the Pooh,"Mar 11, 1977",,,0.0,0.0
+21,The Rescuers,"Jun 22, 1977",Adventure,,48775599.0,159743914.0
+22,Herbie Goes to Monte Carlo,"Jun 24, 1977",,,28000000.0,105847527.0
+23,The Black Hole,"Dec 21, 1979",,,35841901.0,120377374.0
+24,Midnight Madness,"Feb 8, 1980",,,2900000.0,9088096.0
+25,The Last Flight of Noah’s Ark,"Jun 25, 1980",,,11000000.0,34472116.0
+26,The Devil and Max Devlin,"Jan 1, 1981",,,16000000.0,48517980.0
+27,Amy,"Mar 20, 1981",Drama,,0.0,0.0
+28,The Fox and the Hound,"Jul 10, 1981",Comedy,,43899231.0,133118889.0
+29,Condorman,"Aug 7, 1981",Action,,0.0,0.0
+30,Night Crossing,"Feb 5, 1982",Drama,,4500000.0,12903059.0
+31,Tron,"Jul 9, 1982",Action,,26918576.0,77184895.0
+32,Tex,"Nov 19, 1982",Drama,,7199408.0,20643199.0
+33,Trenchcoat,"Mar 11, 1983",Comedy,,4304286.0,11519089.0
+34,Something Wicked This Way Comes,"Apr 29, 1983",Horror,,5656087.0,15136765.0
+35,Never Cry Wolf,"Oct 7, 1983",Drama,,27668764.0,70669955.0
+36,Running Brave,"Nov 4, 1983",Drama,,1204595.0,3223725.0
+37,Splash,"Mar 9, 1984",Comedy,PG,62599495.0,157057661.0
+38,Country,"Sep 29, 1984",Drama,,8400000.0,21075000.0
+39,Baby: Secret of the Lost Legend,"Mar 22, 1985",Adventure,,14276095.0,33900697.0
+40,Return to Oz,"Jun 21, 1985",Adventure,,10618813.0,25215934.0
+41,The Black Cauldron,"Jul 24, 1985",Adventure,,21288692.0,50553142.0
+42,My Science Project,"Aug 9, 1985",Comedy,,4100000.0,9736051.0
+43,The Journey of Natty Gann,"Sep 27, 1985",Drama,,9468512.0,22302956.0
+44,One Magic Christmas,"Nov 22, 1985",Drama,,13229514.0,31415432.0
+45,Down and Out in Beverly Hills,"Jan 31, 1986",Comedy,R,62134225.0,141183693.0
+46,Off Beat,"Apr 11, 1986",Comedy,,4842778.0,11003932.0
+47,Ruthless People,"Jun 27, 1986",Comedy,R,71624879.0,162748712.0
+48,The Great Mouse Detective,"Jul 2, 1986",Adventure,,23605534.0,53637367.0
+49,Flight of the Navigator,"Jul 30, 1986",Adventure,,18564613.0,42183197.0
+50,Tough Guys,"Oct 3, 1986",Comedy,,21458229.0,48758184.0
+51,The Color of Money,"Oct 17, 1986",Drama,R,52293000.0,117957323.0
+52,Outrageous Fortune,"Jan 30, 1987",Comedy,R,52864741.0,113976921.0
+53,Tin Men,"Mar 6, 1987",Comedy,,25411386.0,54787202.0
+54,Ernest Goes to Camp,"May 22, 1987",Comedy,,23509382.0,50686462.0
+55,Benji the Hunted,"Jun 5, 1987",Adventure,,15212539.0,32798382.0
+56,Adventures in Babysitting,"Jul 3, 1987",Comedy,,33790923.0,72853569.0
+57,Stakeout,"Aug 5, 1987",Comedy,R,65673233.0,141592160.0
+58,Can't Buy Me Love,"Aug 14, 1987",Romantic Comedy,,31623833.0,68181300.0
+59,Hello Again,"Nov 6, 1987",Comedy,,20419446.0,44024529.0
+60,3 Men and a Baby,"Nov 25, 1987",Comedy,PG,167780960.0,353334607.0
+61,Good Morning Vietnam,"Dec 23, 1987",Comedy,R,123922370.0,254414837.0
+62,Shoot to Kill,"Feb 12, 1988",Action,,29300000.0,60097074.0
+63,D.O.A.,"Mar 18, 1988",Thriller/Suspense,,12706478.0,26062188.0
+64,Return to Snowy River,"Apr 15, 1988",Adventure,PG,13687027.0,28073384.0
+65,Big Business,"Jun 10, 1988",Comedy,PG,40150487.0,82352451.0
+66,Who Framed Roger Rabbit?,"Jun 22, 1988",Comedy,PG,154112492.0,316250084.0
+67,Cocktail,"Jul 29, 1988",Drama,R,78222753.0,160442289.0
+68,The Rescue,"Aug 5, 1988",Action,,5855392.0,12009960.0
+69,Heartbreak Hotel,"Sep 30, 1988",Comedy,,5509417.0,11300331.0
+70,The Good Mother,"Nov 4, 1988",Drama,,4764606.0,9772655.0
+71,Ernest Saves Christmas,"Nov 11, 1988",Comedy,PG,28202109.0,57845202.0
+72,Oliver & Company,"Nov 18, 1988",Adventure,G,49576671.0,102254492.0
+73,Beaches,"Dec 21, 1988",Drama,PG-13,57041866.0,120381757.0
+74,Three Fugitives,"Jan 27, 1989",Comedy,PG-13,40590000.0,85757817.0
+75,New York Stories,"Mar 1, 1989",Drama,PG,10763469.0,22740861.0
+76,Disorganized Crime,"Apr 14, 1989",Comedy,,7210149.0,15233465.0
+77,Dead Poets Society,"Jun 2, 1989",Drama,PG,95860116.0,202531517.0
+78,"Honey, I Shrunk the Kids","Jun 23, 1989",Adventure,PG,130724172.0,276191669.0
+79,Turner & Hooch,"Jul 28, 1989",Comedy,PG,71079915.0,150176361.0
+80,Cheetah,"Aug 18, 1989",Adventure,,7882250.0,16653473.0
+81,An Innocent Man,"Oct 6, 1989",Drama,R,19397847.0,40983414.0
+82,Gross Anatomy,"Oct 20, 1989",Drama,PG-13,11346186.0,23972012.0
+83,The Little Mermaid,"Nov 15, 1989",Adventure,G,111543479.0,223726012.0
+84,Blaze,"Dec 13, 1989",Drama,R,19049727.0,39884640.0
+85,Stella,"Feb 2, 1990",Drama,PG-13,20062347.0,40077147.0
+86,Where the Heart Is,"Feb 23, 1990",Comedy,,1106475.0,2210321.0
+87,Pretty Woman,"Mar 23, 1990",Romantic Comedy,R,178406268.0,356389765.0
+88,Ernest Goes to Jail,"Apr 6, 1990",Comedy,PG,25029569.0,49999822.0
+89,Spaced Invaders,"Apr 27, 1990",Comedy,PG,15000000.0,29964452.0
+90,Fire Birds,"May 24, 1990",Action,PG-13,14760451.0,29485923.0
+91,Dick Tracy,"Jun 15, 1990",Action,PG,103738726.0,207231621.0
+92,Betsy's Wedding,"Jun 22, 1990",Comedy,R,19740070.0,39433357.0
+93,Arachnophobia,"Jul 18, 1990",Thriller/Suspense,PG-13,53208180.0,106290270.0
+94,DuckTales: The Movie - Treasure of th…,"Aug 3, 1990",Adventure,G,18075331.0,36107823.0
+95,Taking Care of Business,"Aug 17, 1990",Comedy,R,20005435.0,39963460.0
+96,Mr. Destiny,"Oct 12, 1990",Comedy,PG-13,15379253.0,30722056.0
+97,The Rescuers Down Under,"Nov 16, 1990",Adventure,G,27931461.0,55796728.0
+98,3 Men and a Little Lady,"Nov 21, 1990",Comedy,PG,71609321.0,143108869.0
+99,Green Card,"Dec 25, 1990",Romantic Comedy,PG-13,29804169.0,59679131.0
+100,White Fang,"Jan 18, 1991",Adventure,PG,34729091.0,69540672.0
+101,Scenes from a Mall,"Feb 22, 1991",Comedy,,9563393.0,19149495.0
+102,Haakon Haakonsen,"Mar 1, 1991",Adventure,PG,15024232.0,30084149.0
+103,The Marrying Man,"Apr 5, 1991",Romantic Comedy,R,12454768.0,24939118.0
+104,Oscar,"Apr 26, 1991",Comedy,PG,23562716.0,47181395.0
+105,One Good Cop,"May 3, 1991",Action,R,11276846.0,22580472.0
+106,What About Bob?,"May 17, 1991",Comedy,PG,63710000.0,127571325.0
+107,Wild Hearts Can't Be Broken,"May 24, 1991",Drama,,7300000.0,14617333.0
+108,The Rocketeer,"Jun 21, 1991",Action,PG,46573027.0,93256673.0
+109,The Doctor,"Jul 24, 1991",Drama,PG-13,37497480.0,75084021.0
+110,Paradise,"Sep 18, 1991",Drama,PG-13,18634643.0,37313540.0
+111,Deceived,"Sep 27, 1991",Thriller/Suspense,PG-13,28738096.0,57544453.0
+112,Ernest Scared Stupid,"Oct 11, 1991",Comedy,PG,14143280.0,28320147.0
+113,Billy Bathgate,"Nov 1, 1991",Drama,R,15565363.0,31167691.0
+114,Beauty and the Beast,"Nov 13, 1991",Musical,G,218951625.0,363017667.0
+115,Father of the Bride,"Dec 20, 1991",Comedy,PG,89325780.0,179821881.0
+116,The Hand That Rocks the Cradle,"Jan 10, 1992",Thriller/Suspense,R,88036683.0,178831137.0
+117,Medicine Man,"Feb 7, 1992",Drama,PG-13,44948240.0,91304495.0
+118,Blame it on the Bellboy,"Mar 6, 1992",Comedy,PG-13,2891055.0,5872667.0
+119,Noises Off...,"Mar 20, 1992",Comedy,PG-13,2280148.0,4631720.0
+120,Straight Talk,"Apr 3, 1992",Comedy,PG,21202099.0,43068356.0
+121,Newsies,"Apr 8, 1992",,PG,2706352.0,5497481.0
+122,Passed Away,"Apr 24, 1992",,PG-13,4030793.0,8187848.0
+123,Encino Man,"May 22, 1992",Comedy,PG,40057130.0,81369058.0
+124,Sister Act,"May 29, 1992",Comedy,PG,139605150.0,283583472.0
+125,Honey I Blew Up the Kid,"Jul 17, 1992",Comedy,PG,58662452.0,119162518.0
+126,A Stranger Among Us,"Jul 17, 1992",Drama,PG-13,12282994.0,24950752.0
+127,3 Ninjas,"Aug 7, 1992",Action,PG,29028000.0,58965304.0
+128,A Gun in Betty Lou's Handbag,"Aug 21, 1992",,PG-13,3591460.0,7295423.0
+129,Captain Ron,"Sep 18, 1992",Comedy,PG-13,22518097.0,45741576.0
+130,Sarafina!,"Sep 18, 1992",Drama,PG-13,7306242.0,14841352.0
+131,Innocent Blood,"Sep 25, 1992",Horror,R,4877567.0,9907922.0
+132,The Mighty Ducks,"Oct 2, 1992",Comedy,PG,50752337.0,103120810.0
+133,1492: Conquest of Paradise,"Oct 9, 1992",Adventure,PG-13,7099531.0,14421454.0
+134,Consenting Adults,"Oct 16, 1992",Drama,R,21591728.0,43859823.0
+135,Aladdin,"Nov 11, 1992",Comedy,G,217350219.0,441969178.0
+136,The Distinguished Gentleman,"Dec 4, 1992",Comedy,R,46434570.0,94349900.0
+137,The Muppet Christmas Carol,"Dec 11, 1992",Comedy,G,27281507.0,55417615.0
+138,Alive,"Jan 15, 1993",Adventure,R,36299670.0,73914543.0
+139,Aspen Extreme,"Jan 22, 1993",Romantic Comedy,PG-13,7843388.0,15970955.0
+140,Homeward Bound: The Incredible Journey,"Feb 3, 1993",Adventure,G,41833324.0,85182343.0
+141,The Cemetery Club,"Feb 3, 1993",Comedy,PG-13,5583621.0,11369541.0
+142,Swing Kids,"Mar 5, 1993",Musical,PG-13,5632086.0,11468231.0
+143,A Far Off Place,"Mar 12, 1993",Adventure,PG,12890752.0,26248558.0
+144,Born Yesterday,"Mar 26, 1993",Romantic Comedy,PG,17760754.0,36165012.0
+145,The Adventures of Huck Finn,"Apr 2, 1993",Adventure,PG,24103594.0,49080505.0
+146,Bound by Honor,"Apr 16, 1993",,R,4496583.0,9156084.0
+147,Indian Summer,"Apr 23, 1993",Comedy,R,14717851.0,29968953.0
+148,Super Mario Bros.,"May 28, 1993",Action,PG,20844907.0,42445058.0
+149,Guilty as Sin,"Jun 4, 1993",Thriller/Suspense,R,22622537.0,46064723.0
+150,Life With Mikey,"Jun 4, 1993",Comedy,PG,12349549.0,25146538.0
+151,What's Love Got to Do With It,"Jun 9, 1993",Drama,R,39100956.0,79618610.0
+152,Son in Law,"Jul 2, 1993",Comedy,PG-13,25989889.0,52921433.0
+153,Hocus Pocus,"Jul 16, 1993",Comedy,PG,39360491.0,80147079.0
+154,Another Stakeout,"Jul 23, 1993",Comedy,PG-13,20107504.0,40943541.0
+155,My Boyfriend's Back,"Aug 6, 1993",,PG-13,3218882.0,6554384.0
+156,Father Hood,"Aug 27, 1993",,PG-13,3268203.0,6654819.0
+157,The Joy Luck Club,"Sep 8, 1993",Drama,R,32790064.0,66768171.0
+158,Money for Nothing,"Sep 10, 1993",Comedy,R,1044824.0,2127496.0
+159,The Program,"Sep 24, 1993",Action,R,23042200.0,46919256.0
+160,Cool Runnings,"Oct 1, 1993",Comedy,PG,68856263.0,140392731.0
+161,The Nightmare Before Christmas,"Oct 13, 1993",Musical,PG,50408318.0,100026637.0
+162,The Three Musketeers,"Nov 12, 1993",Adventure,PG,53661805.0,109310377.0
+163,Sister Act 2 Back in the Habit,"Dec 10, 1993",Comedy,PG,57319029.0,116965668.0
+164,Tombstone,"Dec 25, 1993",Western,R,56505065.0,115781734.0
+165,The Air Up There,"Jan 7, 1994",Comedy,PG,20782439.0,42940186.0
+166,Cabin Boy,"Jan 7, 1994",Comedy,PG-13,3469493.0,7168577.0
+167,Iron Will,"Jan 14, 1994",Drama,PG,20623071.0,42610902.0
+168,Red Rock West,"Jan 28, 1994",,R,2502551.0,5170709.0
+169,Blank Check,"Feb 11, 1994",Comedy,PG,30573770.0,63170804.0
+170,Angie,"Mar 4, 1994",Comedy,R,9252349.0,19116981.0
+171,The Ref,"Mar 9, 1994",Comedy,R,11325885.0,23401275.0
+172,D2: The Mighty Ducks,"Mar 25, 1994",Comedy,PG,45604206.0,94226333.0
+173,Holy Matrimony,"Apr 8, 1994",Comedy,,713234.0,1473665.0
+174,White Fang 2: Myth of the White Wolf,"Apr 15, 1994",Adventure,PG,8752399.0,18083994.0
+175,The Inkwell,"Apr 22, 1994",Comedy,R,8864699.0,18316030.0
+176,When a Man Loves a Woman,"Apr 29, 1994",Drama,R,50021959.0,103354194.0
+177,3 Ninjas Kick Back,"May 6, 1994",Action,PG,11744960.0,24267154.0
+178,Renaissance Man,"Jun 3, 1994",Comedy,PG-13,24172899.0,49945474.0
+179,The Lion King,"Jun 15, 1994",Adventure,G,422780140.0,761640898.0
+180,I Love Trouble,"Jun 29, 1994",Romantic Comedy,PG,30806194.0,63651027.0
+181,Angels in the Outfield,"Jul 15, 1994",Comedy,PG,50236831.0,103798152.0
+182,In the Army Now,"Aug 12, 1994",Comedy,PG,28881266.0,59673787.0
+183,Color of Night,"Aug 19, 1994",Thriller/Suspense,R,19750470.0,40804816.0
+184,Camp Nowhere,"Aug 26, 1994",Comedy,PG,10442641.0,21576332.0
+185,It's Pat,"Aug 26, 1994",Comedy,,60822.0,125666.0
+186,A Simple Twist of Fate,"Sep 2, 1994",Drama,PG-13,3404935.0,7035189.0
+187,Quiz Show,"Sep 14, 1994",Drama,PG-13,24787282.0,50840394.0
+188,Terminal Velocity,"Sep 23, 1994",Action,PG-13,16478900.0,34048315.0
+189,Ed Wood,"Sep 30, 1994",Comedy,R,5828466.0,12042634.0
+190,The Puppet Masters,"Oct 21, 1994",Horror,R,8579626.0,17727017.0
+191,Squanto: A Warrior's Tale,"Oct 28, 1994",Drama,PG,3319344.0,6858345.0
+192,The Santa Clause,"Nov 11, 1994",Comedy,PG,144833357.0,298369717.0
+193,A Low Down Dirty Shame,"Nov 23, 1994",Action,R,29317886.0,60321919.0
+194,The Jungle Book,"Dec 25, 1994",Adventure,PG,44342956.0,88930321.0
+195,Houseguest,"Jan 6, 1995",Comedy,PG,26325256.0,51016522.0
+196,Bad Company,"Jan 20, 1995",Thriller/Suspense,R,3523909.0,6829092.0
+197,Miami Rhapsody,"Jan 27, 1995",Romantic Comedy,PG-13,5086578.0,9857435.0
+198,The Jerky Boys,"Feb 3, 1995",Comedy,R,7555256.0,14641561.0
+199,Heavy Weights,"Feb 17, 1995",Comedy,PG,17671310.0,34245779.0
+200,Man of the House,"Mar 3, 1995",Comedy,PG,40029009.0,77573459.0
+201,Roommates,"Mar 3, 1995",Comedy,PG,12076989.0,23404369.0
+202,Tall Tale,"Mar 24, 1995",Western,PG,8247627.0,15983331.0
+203,A Pyromaniac's Love Story,"Mar 28, 1995",Romantic Comedy,PG,468240.0,907414.0
+204,Jefferson in Paris,"Mar 31, 1995",Drama,PG-13,2461628.0,4770461.0
+205,Funny Bones,"Mar 31, 1995",Comedy,R,529135.0,1025425.0
+206,A Goofy Movie,"Apr 7, 1995",Comedy,G,35336439.0,68479579.0
+207,While You Were Sleeping,"Apr 21, 1995",Romantic Comedy,PG,81057016.0,157082900.0
+208,Crimson Tide,"May 12, 1995",Action,R,91387195.0,177102077.0
+209,Mad Love,"May 26, 1995",Drama,PG-13,15446532.0,29934306.0
+210,Pocahontas,"Jun 10, 1995",Adventure,G,141579773.0,274370957.0
+211,Judge Dredd,"Jun 30, 1995",Action,R,34687912.0,67222776.0
+212,Operation Dumbo Drop,"Jul 28, 1995",Adventure,PG,24670346.0,47809421.0
+213,Dangerous Minds,"Aug 11, 1995",Drama,R,84919401.0,164552293.0
+214,A Kid in King Arthur's Court,"Aug 11, 1995",Adventure,PG,13406717.0,25981285.0
+215,The Tie That Binds,"Sep 8, 1995",Thriller/Suspense,R,5762795.0,11167895.0
+216,Unstrung Heroes,"Sep 15, 1995",Drama,PG,7929000.0,15365850.0
+217,The Big Green,"Sep 29, 1995",Comedy,PG,17736619.0,34372339.0
+218,Dead Presidents,"Oct 4, 1995",Drama,R,24120194.0,46741467.0
+219,The Scarlet Letter,"Oct 13, 1995",Drama,R,10359006.0,20075033.0
+220,Feast of July,"Oct 13, 1995",Drama,R,293274.0,568342.0
+221,Powder,"Oct 27, 1995",Drama,PG-13,30833914.0,59727216.0
+222,Toy Story,"Nov 22, 1995",Adventure,G,191796233.0,370409631.0
+223,Father of the Bride Part II,"Dec 8, 1995",Comedy,PG,76578911.0,147658438.0
+224,Nixon,"Dec 20, 1995",Drama,R,13668249.0,26302005.0
+225,Tom and Huck,"Dec 22, 1995",Adventure,PG,23837227.0,45911517.0
+226,Mr. Holland's Opus,"Dec 29, 1995",Drama,PG,82582604.0,157508868.0
+227,White Squall,"Feb 2, 1996",Adventure,PG-13,10229300.0,19509726.0
+228,Muppet Treasure Island,"Feb 16, 1996",Adventure,G,34327391.0,65470567.0
+229,Mr. Wrong,"Feb 16, 1996",Romantic Comedy,PG-13,12805071.0,24422334.0
+230,Before and After,"Feb 23, 1996",Drama,PG-13,8642118.0,16482589.0
+231,Up Close & Personal,"Mar 1, 1996",Drama,PG-13,51045801.0,97356578.0
+232,Homeward Bound II: Lost in San Franc…,"Mar 8, 1996",Adventure,G,32709423.0,62384706.0
+233,Two Much,"Mar 15, 1996",Romantic Comedy,PG-13,1078555.0,2057055.0
+234,Un indien dans la ville,"Mar 22, 1996",Comedy,PG,1029731.0,1963937.0
+235,James and the Giant Peach,"Apr 12, 1996",Adventure,PG,28921264.0,55159783.0
+236,Celtic Pride,"Apr 19, 1996",Comedy,PG-13,9240378.0,17623615.0
+237,Last Dance,"May 3, 1996",Drama,R,5857534.0,11171714.0
+238,Boys,"May 10, 1996",Drama,PG-13,21930418.0,41826566.0
+239,Spy Hard,"May 24, 1996",Comedy,PG-13,26936265.0,51373912.0
+240,Eddie,"May 31, 1996",Comedy,PG-13,31369401.0,59828966.0
+241,The Rock,"Jun 7, 1996",Action,R,134069511.0,255702705.0
+242,The Hunchback of Notre Dame,"Jun 21, 1996",Adventure,G,100138851.0,190988799.0
+243,Phenomenon,"Jul 5, 1996",Drama,PG,104636382.0,199559799.0
+244,Kazaam,"Jul 17, 1996",Comedy,PG,18880508.0,36009655.0
+245,Jack,"Aug 9, 1996",Drama,PG-13,58617334.0,111792852.0
+246,First Kid,"Aug 30, 1996",Comedy,PG,26465920.0,50465108.0
+247,The Rich Man's Wife,"Sep 13, 1996",Thriller/Suspense,R,8538318.0,16284619.0
+248,D3: The Mighty Ducks,"Oct 4, 1996",Comedy,PG,22936273.0,43713554.0
+249,The Associate,"Oct 25, 1996",Comedy,PG-13,12772657.0,24333094.0
+250,Ransom,"Nov 8, 1996",Action,R,136492681.0,259807820.0
+251,The War at Home,"Nov 20, 1996",,R,34368.0,65543.0
+252,101 Dalmatians,"Nov 27, 1996",Comedy,G,136189294.0,258728898.0
+253,The Preacher's Wife,"Dec 13, 1996",Drama,PG,48102795.0,91076877.0
+254,Evita,"Dec 25, 1996",Musical,PG,50047179.0,92077628.0
+255,Metro,"Jan 17, 1997",Action,R,32017895.0,58804106.0
+256,Prefontaine,"Jan 24, 1997",Drama,PG-13,590817.0,1085093.0
+257,Shadow Conspiracy,"Jan 31, 1997",Thriller/Suspense,R,2154540.0,3957025.0
+258,That Darn Cat,"Feb 14, 1997",Comedy,PG,18301828.0,33613158.0
+259,Jungle 2 Jungle,"Mar 7, 1997",Comedy,PG,59925026.0,110058379.0
+260,The Sixth Man,"Mar 28, 1997",Comedy,PG-13,14765099.0,27117599.0
+261,Grosse Pointe Blank,"Apr 11, 1997",Black Comedy,R,28084357.0,51579764.0
+262,Romy and Michele's High School Reunion,"Apr 25, 1997",Comedy,R,29235353.0,53693680.0
+263,Gone Fishin',"May 30, 1997",Comedy,PG,19745922.0,36265379.0
+264,Con Air,"Jun 6, 1997",Action,R,101117573.0,185712664.0
+265,Hercules,"Jun 13, 1997",Adventure,G,99112101.0,182029412.0
+266,George Of The Jungle,"Jul 16, 1997",Comedy,PG,105263257.0,193326632.0
+267,Nothing To Lose,"Jul 18, 1997",Comedy,R,44480039.0,81692095.0
+268,Air Bud,"Aug 1, 1997",Comedy,PG,24646936.0,45266588.0
+269,G.I. Jane,"Aug 22, 1997",Drama,R,48169156.0,88467531.0
+270,A Thousand Acres,"Sep 19, 1997",Drama,R,7928412.0,14561324.0
+271,Washington Square,"Oct 5, 1997",Drama,PG,1775644.0,3257546.0
+272,Rocket Man,"Oct 10, 1997",Comedy,PG,15448043.0,28371890.0
+273,Playing God,"Oct 17, 1997",Thriller/Suspense,R,4166918.0,7652965.0
+274,Flubber,"Nov 26, 1997",Comedy,PG,92993801.0,170406423.0
+275,An American Werewolf in Paris,"Dec 25, 1997",Horror,R,26570463.0,48546161.0
+276,Mr. Magoo,"Dec 25, 1997",Comedy,PG,21437192.0,39145784.0
+277,Kundun,"Dec 25, 1997",Drama,PG-13,5686694.0,10236836.0
+278,Deep Rising,"Jan 30, 1998",Action,R,11203026.0,20136775.0
+279,Krippendorf's Tribe,"Feb 27, 1998",Comedy,PG-13,7571115.0,13608633.0
+280,An Alan Smithee Film: Burn Hollywood …,"Feb 27, 1998",Comedy,R,45779.0,82277.0
+281,Meet the Deedles,"Mar 27, 1998",Comedy,PG,4356126.0,7829877.0
+282,He Got Game,"May 1, 1998",Drama,R,21567853.0,38766948.0
+283,The Horse Whisperer,"May 15, 1998",Drama,PG-13,75383563.0,135497531.0
+284,"Six Days, Seven Nights","Jun 12, 1998",Romantic Comedy,PG-13,74339294.0,133620516.0
+285,Mulan,"Jun 19, 1998",Adventure,G,120620254.0,216807832.0
+286,Armageddon,"Jul 1, 1998",Adventure,PG-13,201578182.0,362324957.0
+287,Jane Austen's Mafia,"Jul 24, 1998",Comedy,PG-13,19843795.0,35668055.0
+288,The Parent Trap,"Jul 29, 1998",Comedy,PG,66308518.0,119185667.0
+289,Firelight,"Sep 4, 1998",Drama,R,784419.0,1409943.0
+290,Simon Birch,"Sep 11, 1998",Drama,PG,18253415.0,32809442.0
+291,Holy Man,"Oct 9, 1998",Comedy,PG,12069719.0,21694605.0
+292,Beloved,"Oct 16, 1998",Drama,R,22852487.0,41062682.0
+293,The Waterboy,"Nov 6, 1998",Comedy,PG-13,161491646.0,288691833.0
+294,I'll Be Home For Christmas,"Nov 13, 1998",Comedy,PG,12214338.0,21941840.0
+295,A Bug's Life,"Nov 20, 1998",Adventure,G,162798565.0,288981698.0
+296,Enemy of the State,"Nov 20, 1998",Action,R,111549836.0,198472008.0
+297,Rushmore,"Dec 11, 1998",Black Comedy,R,17105219.0,28392518.0
+298,A Civil Action,"Dec 25, 1998",Drama,PG-13,56709981.0,94139530.0
+299,Mighty Joe Young,"Dec 25, 1998",Adventure,PG,50632037.0,87906042.0
+300,My Favorite Martian,"Feb 12, 1999",Comedy,PG,36850101.0,61150849.0
+301,The Other Sister,"Feb 26, 1999",Romantic Comedy,PG-13,27807627.0,46145331.0
+302,Doug's 1st Movie,"Mar 26, 1999",Adventure,G,19421271.0,32228598.0
+303,Ten Things I Hate About You,"Mar 31, 1999",Romantic Comedy,PG-13,38177966.0,63354375.0
+304,Endurance,"May 14, 1999",,PG,229128.0,380218.0
+305,Instinct,"Jun 4, 1999",Drama,R,34105207.0,56595842.0
+306,Tarzan,"Jun 16, 1999",Adventure,G,171091819.0,283900254.0
+307,Summer of Sam,"Jul 2, 1999",Drama,R,19288130.0,32007656.0
+308,Inspector Gadget,"Jul 23, 1999",Comedy,PG,97387965.0,161610341.0
+309,The Sixth Sense,"Aug 6, 1999",Thriller/Suspense,PG-13,293506292.0,485424724.0
+310,The 13th Warrior,"Aug 27, 1999",Action,R,32698899.0,54262148.0
+311,Breakfast of Champions,"Sep 17, 1999",Comedy,R,178287.0,295851.0
+312,Mumford,"Sep 24, 1999",Comedy,R,4559569.0,7566363.0
+313,"Mystery, Alaska","Oct 1, 1999",Comedy,R,8891623.0,14755189.0
+314,The Straight Story,"Oct 15, 1999",Drama,G,6197866.0,10111144.0
+315,The Insider,"Nov 5, 1999",Drama,R,28965197.0,47794214.0
+316,Toy Story 2,"Nov 19, 1999",Adventure,G,245852179.0,404450426.0
+317,Cradle Will Rock,"Dec 8, 1999",Drama,R,2899970.0,4609153.0
+318,Deuce Bigalow: Male Gigolo,"Dec 10, 1999",Comedy,R,65535067.0,106921374.0
+319,Bicentennial Man,"Dec 17, 1999",Drama,PG,58220776.0,94838225.0
+320,Play it to the Bone,"Dec 24, 1999",Comedy,R,8427204.0,13180524.0
+321,Fantasia 2000 (IMAX),"Jan 1, 2000",Musical,G,60507228.0,94852354.0
+322,Gun Shy,"Feb 4, 2000",Comedy,R,1638202.0,2562155.0
+323,The Tigger Movie,"Feb 11, 2000",Adventure,G,45542421.0,71228678.0
+324,Mission to Mars,"Mar 10, 2000",Adventure,PG,60874615.0,95208344.0
+325,High Fidelity,"Mar 31, 2000",Comedy,R,27277055.0,42661516.0
+326,Keeping the Faith,"Apr 14, 2000",Romantic Comedy,PG-13,37036404.0,57925202.0
+327,Dinosaur,"May 19, 2000",Adventure,PG,137748063.0,215438985.0
+328,Shanghai Noon,"May 26, 2000",Western,PG-13,56932305.0,89042541.0
+329,Gone in 60 Seconds,"Jun 9, 2000",Action,PG-13,101643008.0,158970411.0
+330,Fantasia 2000 (Theatrical Release),"Jun 16, 2000",Musical,G,9103630.0,14238144.0
+331,The Kid,"Jul 7, 2000",Comedy,PG,69688384.0,108993148.0
+332,Coyote Ugly,"Aug 4, 2000",Drama,PG-13,60786269.0,95070168.0
+333,The Crew,"Aug 25, 2000",Comedy,PG-13,13019253.0,20362201.0
+334,Duets,"Sep 15, 2000",Drama,R,4734235.0,7404372.0
+335,Remember the Titans,"Sep 29, 2000",Drama,PG,115654751.0,180742479.0
+336,Unbreakable,"Nov 22, 2000",Thriller/Suspense,PG-13,94999143.0,148208901.0
+337,102 Dalmatians,"Nov 22, 2000",Comedy,G,66941559.0,104055039.0
+338,The Emperor's New Groove,"Dec 15, 2000",Adventure,G,89296573.0,136789252.0
+339,"O Brother, Where Art Thou?","Dec 22, 2000",Comedy,PG-13,45506619.0,67922002.0
+340,Double Take,"Jan 12, 2001",Action,PG-13,29823162.0,44418589.0
+341,Recess: School's Out,"Feb 16, 2001",Comedy,G,36696761.0,54656124.0
+342,Just Visiting,"Apr 6, 2001",Comedy,PG-13,4777007.0,7114869.0
+343,Pearl Harbor,"May 25, 2001",Action,PG-13,198539855.0,295705112.0
+344,Atlantis: The Lost Empire,"Jun 8, 2001",Adventure,PG,84052762.0,125188122.0
+345,crazy/beautiful,"Jun 29, 2001",Drama,PG-13,16929123.0,25214223.0
+346,The Princess Diaries,"Aug 3, 2001",Comedy,G,108244774.0,161218928.0
+347,Bubble Boy,"Aug 24, 2001",Comedy,PG-13,5002310.0,7450434.0
+348,Max Keeble's Big Move,"Oct 5, 2001",Comedy,PG,17292381.0,25749730.0
+349,Corky Romano,"Oct 12, 2001",Comedy,PG-13,23978402.0,35705805.0
+350,High Heels and Low Lifes,"Oct 26, 2001",,R,226792.0,337782.0
+351,"Monsters, Inc.","Nov 2, 2001",Adventure,G,289423425.0,416073179.0
+352,Out Cold,"Nov 21, 2001",Comedy,PG-13,13906394.0,20700691.0
+353,The Royal Tenenbaums,"Dec 14, 2001",Black Comedy,R,52353636.0,76758193.0
+354,Beauty and the Beast (IMAX),"Jan 1, 2002",Musical,G,25487028.0,36980311.0
+355,Frank McKlusky C.I.,"Jan 1, 2002",,,0.0,0.0
+356,Snow Dogs,"Jan 18, 2002",Comedy,PG,81150692.0,117745317.0
+357,The Count of Monte Cristo,"Jan 25, 2002",Drama,PG-13,54228104.0,78682079.0
+358,Peter Pan: Return to Neverland,"Feb 15, 2002",Adventure,G,48430258.0,70269715.0
+359,Reign of Fire,"Feb 19, 2002",Action,PG-13,43061982.0,62480631.0
+360,Sorority Boys,"Mar 22, 2002",Comedy,R,10198766.0,14797862.0
+361,The Rookie,"Mar 29, 2002",Drama,G,75600072.0,109691666.0
+362,Big Trouble,"Apr 5, 2002",Comedy,PG-13,7262288.0,10537188.0
+363,ESPN's Ultimate X - The Movie,"May 10, 2002",Documentary,PG,4197175.0,6089874.0
+364,Bad Company,"Jun 7, 2002",Action,PG-13,30157016.0,43756218.0
+365,Lilo & Stitch,"Jun 21, 2002",Adventure,PG,145771527.0,211506702.0
+366,The Country Bears,"Jul 26, 2002",Adventure,G,16988996.0,24650121.0
+367,Signs,"Aug 2, 2002",Thriller/Suspense,PG-13,227965690.0,330754439.0
+368,Sen to Chihiro no Kamikakushi,"Sep 20, 2002",Adventure,PG,10049886.0,14338992.0
+369,Sweet Home Alabama,"Sep 27, 2002",Comedy,PG-13,127214072.0,184521151.0
+370,Moonlight Mile,"Sep 27, 2002",Drama,PG-13,6830957.0,9909094.0
+371,Tuck Everlasting,"Oct 11, 2002",Drama,PG,19161999.0,27789959.0
+372,The Santa Clause 2,"Nov 1, 2002",Comedy,G,139225854.0,201959095.0
+373,Treasure Planet,"Nov 27, 2002",Adventure,PG,38120554.0,55189145.0
+374,The Hot Chick,"Dec 13, 2002",Comedy,PG-13,35081550.0,50624654.0
+375,25th Hour,"Dec 19, 2002",Drama,R,13084595.0,18325463.0
+376,The Recruit,"Jan 31, 2003",Thriller/Suspense,PG-13,52784696.0,73793522.0
+377,Shanghai Knights,"Feb 7, 2003",Adventure,PG-13,60470220.0,84537962.0
+378,The Jungle Book 2,"Feb 14, 2003",Adventure,G,47901582.0,66966883.0
+379,Bringing Down the House,"Mar 7, 2003",Comedy,PG-13,132675402.0,185481530.0
+380,Piglet's Big Movie,"Mar 21, 2003",Comedy,G,23103423.0,32298812.0
+381,Ghosts of the Abyss,"Apr 11, 2003",Documentary,G,17093668.0,23803108.0
+382,Holes,"Apr 18, 2003",Drama,PG,67383924.0,94203395.0
+383,The Lizzie McGuire Movie,"May 2, 2003",Comedy,PG,42734455.0,59743191.0
+384,Finding Nemo,"May 30, 2003",Adventure,G,380529370.0,518148559.0
+385,Pirates of the Caribbean: The Curse o…,"Jul 9, 2003",Adventure,PG-13,305411224.0,426967926.0
+386,Freaky Friday,"Aug 6, 2003",Comedy,PG,110222438.0,154090360.0
+387,Open Range,"Aug 15, 2003",Western,R,58331254.0,81547672.0
+388,Cold Creek Manor,"Sep 19, 2003",Thriller/Suspense,R,21384035.0,29895090.0
+389,Under the Tuscan Sun,"Sep 26, 2003",Comedy,PG-13,43601508.0,60944053.0
+390,Veronica Guerin,"Oct 17, 2003",Drama,R,1569918.0,2194759.0
+391,Brother Bear,"Oct 24, 2003",Adventure,G,85336277.0,119218333.0
+392,The Haunted Mansion,"Nov 26, 2003",Comedy,PG,75817994.0,105775678.0
+393,Calendar Girls,"Dec 19, 2003",Comedy,PG-13,31011616.0,42379650.0
+394,Young Black Stallion,"Dec 25, 2003",Adventure,G,6751389.0,9254344.0
+395,Teacher's Pet: The Movie,"Jan 16, 2004",Comedy,PG,6491969.0,8812764.0
+396,Miracle,"Feb 6, 2004",Drama,PG,64378093.0,87392478.0
+397,Confessions of a Teenage Drama Queen,"Feb 20, 2004",Comedy,PG,29331068.0,39816568.0
+398,Hidalgo,"Mar 5, 2004",Western,PG-13,67286731.0,91340921.0
+399,The Ladykillers,"Mar 26, 2004",Comedy,R,39692139.0,53881593.0
+400,Home on the Range,"Apr 2, 2004",Comedy,PG,50026353.0,67910166.0
+401,The Alamo,"Apr 9, 2004",Western,PG-13,22406362.0,30416359.0
+402,Raising Helen,"May 28, 2004",Comedy,PG-13,37485528.0,50886144.0
+403,Around the World in 80 Days,"Jun 16, 2004",Adventure,PG,24004159.0,32585356.0
+404,America's Heart and Soul,"Jul 2, 2004",Documentary,Not Rated,314000.0,426246.0
+405,King Arthur,"Jul 7, 2004",Adventure,PG-13,51877963.0,70423706.0
+406,The Village,"Jul 30, 2004",Thriller/Suspense,PG-13,114197520.0,155021748.0
+407,The Princess Diaries 2: Royal Engagement,"Aug 11, 2004",Romantic Comedy,G,95149435.0,129164207.0
+408,Mr. 3000,"Sep 17, 2004",Comedy,PG-13,21800302.0,29593641.0
+409,The Last Shot,"Sep 24, 2004",Comedy,R,463730.0,629502.0
+410,Ladder 49,"Oct 1, 2004",Action,PG-13,74541707.0,101161045.0
+411,The Incredibles,"Nov 5, 2004",Adventure,PG,261441092.0,354488708.0
+412,National Treasure,"Nov 19, 2004",Adventure,PG,173005002.0,234069353.0
+413,The Life Aquatic with Steve Zissou,"Dec 10, 2004",Comedy,R,24006726.0,32198655.0
+414,Aliens of the Deep,"Jan 28, 2005",Documentary,G,8968684.0,11740942.0
+415,Pooh's Heffalump Movie,"Feb 11, 2005",Adventure,G,18098433.0,23801835.0
+416,The Pacifier,"Mar 4, 2005",Comedy,PG,113006880.0,148619029.0
+417,Ice Princess,"Mar 18, 2005",Comedy,G,24381334.0,32064685.0
+418,A Lot Like Love,"Apr 22, 2005",Comedy,PG-13,21835784.0,28716947.0
+419,The Hitchhiker's Guide to the Galaxy,"Apr 29, 2005",Comedy,PG,51019112.0,67096891.0
+420,Hauru no ugoku shiro,"Jun 10, 2005",Adventure,PG,4710455.0,6194870.0
+421,Herbie: Fully Loaded,"Jun 22, 2005",Comedy,G,66010682.0,86812798.0
+422,Dark Water,"Jul 8, 2005",Thriller/Suspense,PG-13,25473093.0,33500491.0
+423,Sky High,"Jul 29, 2005",Adventure,PG,63939454.0,84088854.0
+424,Valiant,"Aug 19, 2005",Adventure,G,19478106.0,25616292.0
+425,Flightplan,"Sep 23, 2005",Thriller/Suspense,PG-13,89706988.0,117960425.0
+426,The Greatest Game Ever Played,"Sep 30, 2005",Drama,PG,15331289.0,20162672.0
+427,Shopgirl,"Oct 21, 2005",Drama,R,10284523.0,13519621.0
+428,Chicken Little,"Nov 4, 2005",Adventure,G,135386665.0,177954661.0
+429,"The Chronicles of Narnia: The Lion, t…","Dec 9, 2005",Adventure,PG,291710957.0,381557539.0
+430,Casanova,"Dec 25, 2005",Drama,R,11304403.0,14574087.0
+431,Glory Road,"Jan 13, 2006",Drama,PG,42647449.0,54888236.0
+432,Annapolis,"Jan 27, 2006",Drama,PG-13,17127992.0,22044113.0
+433,Roving Mars,"Jan 27, 2006",Documentary,G,10407978.0,12948025.0
+434,Eight Below,"Feb 17, 2006",Adventure,PG,81612565.0,105037235.0
+435,The Shaggy Dog,"Mar 10, 2006",Comedy,PG,61123569.0,78667428.0
+436,Stay Alive,"Mar 24, 2006",Horror,PG-13,23086480.0,29712825.0
+437,The Wild,"Apr 14, 2006",Adventure,G,37384046.0,48114115.0
+438,Stick It,"Apr 28, 2006",Comedy,PG-13,26910736.0,34634731.0
+439,Goal! The Dream Begins,"May 12, 2006",Drama,PG,4283255.0,5512647.0
+440,Cars,"Jun 9, 2006",Comedy,G,244082982.0,314140384.0
+441,Pirates of the Caribbean: Dead Man’…,"Jul 7, 2006",Adventure,PG-13,423315812.0,544817142.0
+442,Step Up,"Aug 11, 2006",Drama,PG-13,65328121.0,84078780.0
+443,Invincible,"Aug 25, 2006",Drama,PG,57806952.0,74398864.0
+444,The Guardian,"Sep 29, 2006",Action,PG-13,55011732.0,70801353.0
+445,The Prestige,"Oct 20, 2006",Thriller/Suspense,PG-13,53089891.0,68289913.0
+446,Tim Burton's The Nightmare Before Chr…,"Oct 20, 2006",Musical,PG,24732041.0,30737517.0
+447,The Santa Clause 3: The Escape Clause,"Nov 3, 2006",Comedy,G,84500122.0,108694869.0
+448,Déjà Vu,"Nov 22, 2006",Thriller/Suspense,PG-13,64038616.0,82267038.0
+449,Apocalypto,"Dec 8, 2006",Adventure,R,50866635.0,64959548.0
+450,Primeval,"Jan 12, 2007",Adventure,R,10597734.0,12985302.0
+451,Bridge to Terabithia,"Feb 16, 2007",Drama,PG,82234139.0,100760721.0
+452,Wild Hogs,"Mar 2, 2007",Comedy,PG-13,168213584.0,206110533.0
+453,Meet the Robinsons,"Mar 30, 2007",Adventure,G,97822171.0,119860589.0
+454,The Lookout,"Mar 30, 2007",Drama,R,4600585.0,5637048.0
+455,The Hoax,"Apr 6, 2007",Drama,R,7164995.0,8779196.0
+456,The Invisible,"Apr 27, 2007",Thriller/Suspense,PG-13,20568319.0,25202168.0
+457,Pirates of the Caribbean: At World’…,"May 24, 2007",Adventure,PG-13,309420425.0,379129960.0
+458,Ratatouille,"Jun 29, 2007",Comedy,G,206445654.0,252955933.0
+459,Underdog,"Aug 3, 2007",Adventure,PG,43760605.0,53619462.0
+460,The Game Plan,"Sep 22, 2007",Comedy,PG,90648202.0,111010758.0
+461,Dan in Real Life,"Oct 20, 2007",Romantic Comedy,PG-13,47642963.0,58350234.0
+462,Enchanted,"Nov 21, 2007",Romantic Comedy,PG,127706877.0,156074310.0
+463,National Treasure 2: Book of Secrets,"Dec 21, 2007",Adventure,PG,219961501.0,267003525.0
+464,Hannah Montana/Miley Cyrus: Best of B…,"Feb 1, 2008",Concert/Performance,G,65281781.0,76646993.0
+465,Step Up 2 the Streets,"Feb 14, 2008",Drama,PG-13,58017783.0,68118371.0
+466,College Road Trip,"Mar 7, 2008",Comedy,G,45610425.0,53550960.0
+467,The Chronicles of Narnia: Prince Caspian,"May 16, 2008",Adventure,PG,141621490.0,166277038.0
+468,WALL-E,"Jun 27, 2008",Adventure,G,223808164.0,262771918.0
+469,Swing Vote,"Aug 1, 2008",Comedy,PG-13,16289867.0,19125841.0
+470,Goal! 2: Living the Dream...,"Aug 29, 2008",Drama,PG-13,225067.0,264247.0
+471,Miracle at St. Anna,"Sep 26, 2008",Drama,R,7916887.0,9295171.0
+472,Beverly Hills Chihuahua,"Oct 3, 2008",Comedy,PG,94514402.0,110932022.0
+473,Morning Light,"Oct 17, 2008",Documentary,PG,275093.0,322979.0
+474,High School Musical 3: Senior Year,"Oct 24, 2008",Musical,G,90559416.0,106308538.0
+475,Bolt,"Nov 21, 2008",Comedy,PG,114053759.0,133702498.0
+476,Bedtime Stories,"Dec 25, 2008",Comedy,PG,110101975.0,128039679.0
+477,Confessions of a Shopaholic,"Feb 13, 2009",Romantic Comedy,PG,44277350.0,49767744.0
+478,Jonas Brothers: The 3D Concert Experi…,"Feb 27, 2009",Concert/Performance,G,38174685.0,38174685.0
+479,Race to Witch Mountain,"Mar 13, 2009",Adventure,PG,67172594.0,75501997.0
+480,Hannah Montana the Movie,"Apr 10, 2009",Drama,G,79576189.0,89443640.0
+481,Earth,"Apr 22, 2009",Documentary,G,32011576.0,35981010.0
+482,Up,"May 29, 2009",Adventure,PG,293004164.0,329336681.0
+483,The Proposal,"Jun 19, 2009",Romantic Comedy,PG-13,163958031.0,184288829.0
+484,G-Force,"Jul 24, 2009",Adventure,PG,119436770.0,134246932.0
+485,Gake no ue no Ponyo,"Aug 14, 2009",Adventure,G,15090399.0,16961607.0
+486,X Games 3D: The Movie,"Aug 21, 2009",Documentary,PG,1391434.0,1563976.0
+487,Walt and El Grupo,"Sep 10, 2009",Documentary,PG,20521.0,23064.0
+488,Surrogates,"Sep 25, 2009",Action,PG-13,38577772.0,43361416.0
+489,Toy Story 3D Double Feature,"Oct 2, 2009",Adventure,G,30702446.0,34509545.0
+490,Disney's A Christmas Carol,"Nov 6, 2009",Drama,PG,137855863.0,154927105.0
+491,The Princess and the Frog,"Nov 25, 2009",Adventure,G,104400899.0,116316457.0
+492,Old Dogs,"Nov 25, 2009",Comedy,PG,49492060.0,55503929.0
+493,When in Rome,"Jan 29, 2010",Romantic Comedy,PG-13,32680633.0,34917330.0
+494,Alice in Wonderland,"Mar 5, 2010",Adventure,PG,334191110.0,357063499.0
+495,Waking Sleeping Beauty,"Mar 26, 2010",Documentary,PG,80741.0,86264.0
+496,The Last Song,"Mar 31, 2010",Drama,PG,62950384.0,67258772.0
+497,Oceans,"Apr 22, 2010",Documentary,G,19422319.0,20751600.0
+498,Prince of Persia: Sands of Time,"May 28, 2010",Action,PG-13,90759676.0,96971361.0
+499,Toy Story 3,"Jun 18, 2010",Adventure,G,415004880.0,443408255.0
+500,The Sorcerer's Apprentice,"Jul 14, 2010",Adventure,PG,63150991.0,67473105.0
+501,Step Up 3D,"Aug 6, 2010",Drama,PG-13,42400223.0,45302137.0
+502,Gedo Senki (Tales from Earthsea),"Aug 13, 2010",Adventure,PG-13,48658.0,51988.0
+503,You Again,"Sep 24, 2010",Comedy,PG,25702053.0,27461121.0
+504,Secretariat,"Oct 8, 2010",Drama,PG,59699513.0,63781920.0
+505,Tangled,"Nov 24, 2010",Adventure,PG,200821936.0,214388548.0
+506,Tron: Legacy,"Dec 17, 2010",Adventure,PG,172062763.0,183619259.0
+507,Gnomeo and Juliet,"Feb 11, 2011",Comedy,G,99967670.0,106270797.0
+508,I am Number Four,"Feb 18, 2011",Adventure,PG-13,55100437.0,58574607.0
+509,Mars Needs Moms,"Mar 11, 2011",Adventure,PG,21392758.0,22741603.0
+510,African Cats,"Apr 22, 2011",Documentary,G,15428747.0,16401551.0
+511,Zokkomon,"Apr 22, 2011",Adventure,PG,2815.0,2984.0
+512,Prom,"Apr 29, 2011",Comedy,PG,10130219.0,10768946.0
+513,Pirates of the Caribbean: On Stranger…,"May 20, 2011",Adventure,PG-13,241063875.0,256263359.0
+514,Cars 2,"Jun 24, 2011",Adventure,G,191450875.0,203522177.0
+515,Winnie the Pooh,"Jul 15, 2011",Adventure,G,26692846.0,28375869.0
+516,The Help,"Aug 10, 2011",Drama,PG-13,169705587.0,180404976.0
+517,Fright Night,"Aug 19, 2011",Horror,R,18298649.0,19452402.0
+518,Real Steel,"Oct 7, 2011",Action,PG-13,85463309.0,90848019.0
+519,The Muppets,"Nov 23, 2011",Comedy,PG,88625922.0,94189503.0
+520,War Horse,"Dec 25, 2011",Drama,PG-13,79883359.0,84762149.0
+521,The Secret World of Arietty,"Feb 17, 2012",Adventure,G,19192510.0,20325733.0
+522,John Carter,"Mar 9, 2012",Adventure,PG-13,73058679.0,77372445.0
+523,Chimpanzee,"Apr 20, 2012",Documentary,G,28965459.0,30675725.0
+524,The Avengers,"May 4, 2012",Action,PG-13,623279547.0,660081224.0
+525,Brave,"Jun 22, 2012",Adventure,PG,237282182.0,251292441.0
+526,People Like Us,"Jun 29, 2012",Drama,PG-13,12431792.0,13165822.0
+527,The Odd Life of Timothy Green,"Aug 15, 2012",Drama,PG,51853450.0,54914942.0
+528,Frankenweenie,"Oct 5, 2012",Comedy,PG,35287788.0,37363513.0
+529,Wreck-It Ralph,"Nov 2, 2012",Adventure,PG,189412677.0,200354959.0
+530,Lincoln,"Nov 9, 2012",Drama,PG-13,182207973.0,192122330.0
+531,Oz the Great and Powerful,"Mar 8, 2013",Adventure,PG,234770996.0,243434130.0
+532,Iron Man 3,"May 3, 2013",Action,PG-13,408992272.0,424084233.0
+533,Monsters University,"Jun 21, 2013",Adventure,G,268488329.0,278395641.0
+534,The Lone Ranger,"Jul 2, 2013",Western,PG-13,89302115.0,92597388.0
+535,Disney Planes,"Aug 9, 2013",Comedy,PG,90282580.0,93614037.0
+536,The Fifth Estate,"Oct 18, 2013",Drama,R,3254172.0,3374251.0
+537,Thor: The Dark World,"Nov 8, 2013",Adventure,PG-13,206362140.0,213962184.0
+538,Kaze Tachinu,"Nov 8, 2013",Drama,PG-13,5201879.0,5367415.0
+539,Frozen,"Nov 22, 2013",Adventure,PG,400738009.0,414997174.0
+540,Delivery Man,"Nov 22, 2013",Comedy,PG-13,30659817.0,31787136.0
+541,Saving Mr. Banks,"Dec 13, 2013",Drama,PG-13,83299761.0,86249969.0
+542,Need for Speed,"Mar 14, 2014",Action,PG-13,43568507.0,44955015.0
+543,Muppets Most Wanted,"Mar 21, 2014",Comedy,PG,51178893.0,52807594.0
+544,Captain America: The Winter Soldier,"Apr 4, 2014",Action,PG-13,259746958.0,268013076.0
+545,Bears,"Apr 18, 2014",Documentary,G,17780194.0,18346024.0
+546,Million Dollar Arm,"May 10, 2014",Drama,PG,36447959.0,37607865.0
+547,Maleficent,"May 30, 2014",Adventure,PG,241407328.0,249089809.0
+548,Planes: Fire and Rescue,"Jul 18, 2014",Adventure,PG,59157732.0,61040349.0
+549,Guardians of the Galaxy,"Aug 1, 2014",Adventure,PG-13,333172112.0,343771168.0
+550,The Hundred-Foot Journey,"Aug 8, 2014",Romantic Comedy,PG,54235441.0,55961409.0
+551,"Alexander and the Terrible, Horrible,…","Oct 10, 2014",Comedy,PG,66954149.0,69055550.0
+552,Big Hero 6,"Nov 7, 2014",Adventure,PG,222527828.0,229249222.0
+553,Into the Woods,"Dec 25, 2014",Musical,PG,128002372.0,130894237.0
+554,Strange Magic,"Jan 23, 2015",Adventure,PG,12429583.0,12429583.0
+555,"McFarland, USA","Feb 20, 2015",Drama,PG,44480275.0,44480275.0
+556,Cinderella,"Mar 13, 2015",Drama,PG,201151353.0,201151353.0
+557,Monkey Kingdom,"Apr 17, 2015",Documentary,G,16432322.0,16432322.0
+558,Avengers: Age of Ultron,"May 1, 2015",Action,PG-13,459005868.0,459005868.0
+559,Tomorrowland,"May 22, 2015",Adventure,PG,93436322.0,93436322.0
+560,Inside Out,"Jun 19, 2015",Adventure,PG,356461711.0,356461711.0
+561,Ant-Man,"Jul 17, 2015",Action,PG-13,180202163.0,180202163.0
+562,Bridge of Spies,"Oct 16, 2015",Thriller/Suspense,PG-13,72313754.0,72313754.0
+563,The Good Dinosaur,"Nov 25, 2015",Adventure,PG,123087120.0,123087120.0
+564,Star Wars Ep. VII: The Force Awakens,"Dec 18, 2015",Adventure,PG-13,936662225.0,936662225.0
+565,The Finest Hours,"Jan 29, 2016",Thriller/Suspense,PG,27569558.0,27569558.0
+566,Zootopia,"Mar 4, 2016",Adventure,PG,341268248.0,341268248.0
+567,The Jungle Book,"Apr 15, 2016",Adventure,PG,364001123.0,364001123.0
+568,A Beautiful Planet,"Apr 29, 2016",Documentary,G,7895708.0,7895708.0
+569,Captain America: Civil War,"May 6, 2016",Action,PG-13,408084349.0,408084349.0
+570,Alice Through the Looking Glass,"May 27, 2016",Adventure,PG,77042381.0,77042381.0
+571,Finding Dory,"Jun 17, 2016",Adventure,PG,486295561.0,486295561.0
+572,The BFG,"Jul 1, 2016",Adventure,PG,55483770.0,55483770.0
+573,Pete’s Dragon,"Aug 12, 2016",Adventure,PG,76233151.0,76233151.0
+574,The Light Between Oceans,"Sep 2, 2016",Drama,PG-13,12545979.0,12545979.0
+575,Queen of Katwe,"Sep 23, 2016",Drama,PG,8874389.0,8874389.0
+576,Doctor Strange,"Nov 4, 2016",Adventure,PG-13,232532923.0,232532923.0
+577,Moana,"Nov 23, 2016",Adventure,PG,246082029.0,246082029.0
+578,Rogue One: A Star Wars Story,"Dec 16, 2016",Adventure,PG-13,529483936.0,529483936.0
